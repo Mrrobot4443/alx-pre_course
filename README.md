@@ -1,15 +1,2 @@
 My first readme
-hello
-
-hello1
-
-hello2
-hello3
-hello4
-hello5
-hello6
-hello7
-hello8
-hello9
-hello10
-hello
+edit from interface 
